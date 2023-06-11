@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OEL-WEB/static/css/main.e8e76c01.css",
+    "main.js": "/OEL-WEB/static/js/main.95e00602.js",
+    "index.html": "/OEL-WEB/index.html",
+    "main.e8e76c01.css.map": "/OEL-WEB/static/css/main.e8e76c01.css.map",
+    "main.95e00602.js.map": "/OEL-WEB/static/js/main.95e00602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e76c01.css",
+    "static/js/main.95e00602.js"
+  ]
+}
